@@ -8,55 +8,66 @@ dependencies:
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/FreeRTOS-Kernel.git"
+      path: "FreeRTOS/FreeRTOS-Kernel"
   - name: "FreeRTOS-Plus-TCP"
     version: "V2.3.2"
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/FreeRTOS-Plus-TCP.git"
+      path: "FreeRTOS/FreeRTOS-Plus-TCP"
   - name: "coreJSON"
-    version: "V3.0.0"
+    version: "v3.0.0"
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/coreJSON.git"
+      path: "FreeRTOS/coreJSON"
   - name: "coreHTTP"
     version: "v2.0.0"
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/coreHTTP.git"
+      path: "FreeRTOS/coreHTTP"
   - name: "coreMQTT"
     version: "v1.1.0"
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/coreMQTT.git"
+      path: "FreeRTOS/coreMQTT"
   - name: "corePKCS11"
     version: "v3.0.0"
     repository:
       type: "git"
       url: "https://github.com/FreeRTOS/corePKCS11.git"
+      path: "FreeRTOS/corePKCS11"
   - name: "device-shadow"
     version: "v1.0.2"
     repository:
       type: "git"
       url: "https://github.com/aws/Device-Shadow-for-AWS-IoT-embedded-sdk.git"
+      path: "aws/device-shadow-for-aws-iot-embedded-sdk"
   - name: "backoffAlgorithm"
     version: "v1.0.0"
     repository:
       type: "git"
-      url: "https://github.com/FreeRTOS/backoffAlgorithm"
+      url: "https://github.com/FreeRTOS/backoffAlgorithm.git"
+      path: "FreeRTOS/backoffAlgorithm"
   - name: "device-defender"
     version: "v1.1.0"
     repository:
       type: "git"
       url: "https://github.com/aws/Device-Defender-for-AWS-IoT-embedded-sdk.git"
+      path: "aws/device-defender-for-aws-iot-embedded-sdk"
   - name: "jobs"
     version: "v1.1.0"
     repository:
       type: "git"
       url: "https://github.com/aws/Jobs-for-AWS-IoT-embedded-sdk.git"
+      path: "aws/jobs-for-aws-iot-embedded-sdk"
   - name: "ota"
     version: "v3.0.0"
     repository:
       type: "git"
       url: "https://github.com/aws/ota-for-AWS-IoT-embedded-sdk.git"
-      
+      path: "aws/ota-for-aws-iot-embedded-sdk"
+
 license: "MIT"
