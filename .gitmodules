@@ -20,7 +20,7 @@
 	url = https://github.com/aws/device-shadow-for-aws-iot-embedded-sdk.git
 [submodule "FreeRTOS-Plus-TCP"]
 	path = FreeRTOS/FreeRTOS-Plus-TCP
-	url = https://github.com/FreeRTOS/FreeRTOS-Plus-TCP
+	url = https://github.com/FreeRTOS/FreeRTOS-Plus-TCP.git
 [submodule "backoffAlgorithm"]
 	path = FreeRTOS/backoffAlgorithm
 	branch = main
